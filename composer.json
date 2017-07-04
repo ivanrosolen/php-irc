@@ -1,0 +1,14 @@
+{
+    "name": "xuplau/php-irc",
+    "description": "PHP IRC :D",
+    "homepage": "https://github.com/ivanrosolen/php-irc",
+    "require": {
+        "php" : ">=7.1",
+        "react/react": "~0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xuplau\\": "src"
+        }
+    }
+}
